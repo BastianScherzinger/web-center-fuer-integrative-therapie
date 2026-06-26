@@ -4,11 +4,17 @@
 :root{
   --accent:#217e38;
   --accent-dark:#125022;
+  --accent-ink:#1a6230;
   --bg:#f8f9f8;
   --surface:#ffffff;
   --ink:#17211a;
   --ink-soft:#556d5b;
+  --muted:#6b7a6e;
   --line:#e3e8e4;
+  --ring:color-mix(in srgb, var(--accent) 40%, transparent);
+  --shadow-sm:0 1px 2px rgba(20,35,25,.06), 0 1px 1px rgba(20,35,25,.04);
+  --shadow-md:0 8px 24px -12px rgba(20,35,25,.20);
+  --shadow-lg:0 24px 60px -24px rgba(20,35,25,.30);
 }
 body{font-family:"Inter",system-ui,-apple-system,"Segoe UI",sans-serif}
 h1,h2,h3,.brand,.section-t,.team-t,.band-t,.hr-title,.hr-result-val{font-family:"Poppins","Iowan Old Style",Georgia,serif}

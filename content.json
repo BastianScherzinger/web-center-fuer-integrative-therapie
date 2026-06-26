@@ -3,7 +3,7 @@
   "branche": "Physiotherapeut",
   "stadt": "Tübingen",
   "telefon": "",
-  "email": "",
+  "email": "psyche@therapie.de",
   "adresse": "Ahornstr. 31 70597 Stuttgart (Degerloch)",
   "akzent": "#34C759",
   "fotos": [
@@ -78,6 +78,8 @@
   "agb": "Allgemeine Geschäftsbedingungen (AGB)\n\n1. Geltungsbereich\nDiese AGB gelten für alle Verträge und Leistungen zwischen Center für Integrative Therapie (nachfolgend „Auftragnehmer\") und dem Kunden, soweit nicht ausdrücklich etwas anderes vereinbart wurde.\n\n2. Angebot und Vertragsschluss\nAngebote sind freibleibend. Ein Vertrag kommt durch Auftragsbestätigung bzw. Ausführung der Leistung zustande.\n\n3. Leistungen und Preise\nArt und Umfang der Leistung ergeben sich aus der jeweiligen Vereinbarung. Es gelten die zum Zeitpunkt des Vertragsschlusses vereinbarten Preise zzgl. der gesetzlichen Umsatzsteuer.\n\n4. Zahlungsbedingungen\nRechnungen sind, sofern nicht anders vereinbart, innerhalb von 14 Tagen nach Rechnungsstellung ohne Abzug zur Zahlung fällig.\n\n5. Gewährleistung und Haftung\nEs gelten die gesetzlichen Gewährleistungsregelungen. Die Haftung für leicht fahrlässige Pflichtverletzungen ist ausgeschlossen, soweit keine wesentlichen Vertragspflichten betroffen sind oder Schäden aus der Verletzung von Leben, Körper oder Gesundheit resultieren.\n\n6. Schlussbestimmungen\nEs gilt das Recht der Bundesrepublik Deutschland. Sollte eine Bestimmung unwirksam sein, bleibt die Wirksamkeit der übrigen Bestimmungen unberührt.",
   "lat": 48.751060599999995,
   "lng": 9.1822345,
+  "map_embed": "https://www.openstreetmap.org/export/embed.html?bbox=9.1772345%2C48.7480606%2C9.1872345%2C48.7540606&layer=mapnik&marker=48.7510606%2C9.1822345",
+  "maps_url": "https://www.openstreetmap.org/?mlat=48.7510606&mlon=9.1822345#map=16/48.7510606/9.1822345",
   "fotos_graded": true,
   "faq": [
     {
@@ -104,7 +106,8 @@
   ],
   "content_enriched": true,
   "makeover_stages": [
-    "lokal"
+    "lokal",
+    "politur"
   ],
   "makeover_version": 7
 }
